@@ -9,9 +9,7 @@
 //
 
 #import <XCTest/XCTest.h>
-
 #import "JSQVideoMediaItem.h"
-
 
 @interface JSQVideoMediaItemTests : XCTestCase
 
